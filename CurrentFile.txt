@@ -1,2 +1,0 @@
-This is a current test file in local repository
-sdded second line for fetch learning
